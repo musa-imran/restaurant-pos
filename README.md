@@ -6,11 +6,12 @@ A powerful and intuitive **Point of Sale (POS)** system built with **ASP.NET MVC
 
 ## 🚀 Key Features
 
-- **Order Management**: Create, edit, and manage sales orders effortlessly.
-- **Inventory Control**: Monitor stock, manage suppliers, and update in real-time.
+- **Main Dashboard**: Analytical view of real time processing.
+- **Category Management**: Add, update, and delete categories.
 - **Menu Items**: Easily add, update, and categorize menu items.
+- **Order Management**: Create, edit, and manage sales orders effortlessly.
 - **User Roles & Permissions**: Roles like Admin, Manager, Cashier with custom access control.
-- **Reporting**: Generate reports for sales, stock, and finances (SSRS integrated).
+- **Reporting**: Generate reports for sales invoices, customer bills, kitchen receipt etc.
 - **Payment Gateway Integration**: Easy integration with 3rd-party APIs.
 - **Customizable**: Tailor to fit different restaurant workflows & branding.
 - **Dark/Light Mode**: Modern UI with theme toggle.

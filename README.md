@@ -41,8 +41,6 @@ A powerful and intuitive **Point of Sale (POS)** system built with **ASP.NET MVC
 📧 Email: [musaimran932@gmail.com](mailto:musaimran932@gmail.com)  
 📱 WhatsApp: [Click to Message](https://api.whatsapp.com/send?phone=923063239877)
 
-📽️ **Watch Demo Video**: [YouTube Demo – Restaurant POS System](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
 ---
 
 ## 📸 Screenshots
